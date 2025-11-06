@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Local output directories (EDGAR outputs)
+downloads/
+EDGAR_EXHIBITS*/
