@@ -1,0 +1,16 @@
+Row 1 | BLK | CIK=0002012383 | Window=2023-11-13..2024-03-12 | no Exhibit 2.1 found
+Row 1 | BLK | CIK=0002012383 | Window=2023-11-13..2024-03-12 | no Exhibit 2.1 found
+Row 3 | NVO | CIK=0000353278 | Window=2023-12-07..2024-04-05 | no Exhibit 2.1 found
+Row 3 | NVO | CIK=0000353278 | Window=2023-12-07..2024-04-05 | no Exhibit 2.1 found
+Row 4 | XOM | CIK=0000034088 | Window=2023-08-12..2023-12-10 | no Exhibit 2.1 found
+Row 4 | XOM | CIK=0000034088 | Window=2023-08-12..2023-12-10 | no Exhibit 2.1 found
+Row 6 | WMT | CIK=0000104169 | Window=2023-12-22..2024-04-20 | no Exhibit 2.1 found
+Row 6 | WMT | CIK=0000104169 | Window=2023-12-22..2024-04-20 | no Exhibit 2.1 found
+Row 7 | AZN | CIK=0000901832 | Window=2024-01-19..2024-05-18 | no Exhibit 2.1 found
+Row 7 | AZN | CIK=0000901832 | Window=2024-01-19..2024-05-18 | no Exhibit 2.1 found
+Row 9 | ABBV | CIK=0001551152 | Window=2023-10-01..2024-01-29 | no Exhibit 2.1 found
+Row 9 | ABBV | CIK=0001551152 | Window=2023-10-01..2024-01-29 | no Exhibit 2.1 found
+Row 10 | MRK | CIK=0000310158 | Window=2023-11-09..2024-03-08 | no Exhibit 2.1 found
+Row 10 | MRK | CIK=0000310158 | Window=2023-11-09..2024-03-08 | no Exhibit 2.1 found
+Row 11 | BMY | CIK=0000014272 | Window=2023-10-23..2024-02-20 | no Exhibit 2.1 found
+Row 11 | BMY | CIK=0000014272 | Window=2023-10-23..2024-02-20 | no Exhibit 2.1 found
