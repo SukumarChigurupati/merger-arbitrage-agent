@@ -26,3 +26,6 @@ Thumbs.db
 # Local output directories (EDGAR outputs)
 downloads/
 EDGAR_EXHIBITS*/
+
+# Local database (Chroma)
+merger_db/
